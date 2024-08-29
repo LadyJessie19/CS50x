@@ -6,7 +6,7 @@
 
 ## 🚀 What is CS50x?
 
-CS50x is Harvard University’s legendary introduction to computer science and the art of programming. 
+[CS50x](https://cs50.harvard.edu/x/2024/) is Harvard University’s legendary introduction to computer science and the art of programming. 
 Whether you're a complete beginner or someone with some experience, this course is designed to make you think computationally and solve problems efficiently. 
 
 It's not just about learning one programming language; it’s about mastering the fundamentals that will make you a versatile programmer. 
