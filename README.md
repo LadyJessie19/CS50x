@@ -20,7 +20,7 @@ After graduating as a full-stack developer, I realized I wanted to deepen my und
 My year at [Arnia](https://arnia.com.br/) was fantastic for mastering the tools of the trade, but I felt like I needed to dive deeper into the core concepts. 
 
 When I discovered CS50x, I knew it was the perfect opportunity to fill that gap. 
-David Malan’s teaching style is phenomenal, and I highly recommend this course to anyone who’s serious about becoming a better programmer.
+[David Malan’s](https://www.linkedin.com/in/malan/) teaching style is phenomenal, and I highly recommend this course to anyone who’s serious about becoming a better programmer.
 
 ## 🗓️ Course Schedule
 
